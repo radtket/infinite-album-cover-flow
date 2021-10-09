@@ -1,0 +1,21 @@
+{
+  "name": "infinite-albumn-cover-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "eslintConfig": {
+    "parser": "babel-eslint",
+    "extends": "radtket"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint-config-radtket": "^1.0.22",
+    "gsap": "^3.8.0"
+  }
+}
